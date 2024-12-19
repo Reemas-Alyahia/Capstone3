@@ -1,11 +1,11 @@
-// Reemas - Rental Controller,ServiceModel,repository
+// Reemas - Rental Controller,ServiceModel,repository,DTOout
 
-// Reemas - LiveStoke Controller,ServiceModel,repository
+// Reemas - LiveStoke Controller,ServiceModel,repository,DTOout
 
-// Reemas - Plant Controller,ServiceModel,repository
+// Reemas - Plant Controller,ServiceModel,repository,DTOout
 
 // Reemas -HeavyEquipments
- Controller,ServiceModel,repository
+ Controller,ServiceModel,repository,DTOout
 ***********************************************************
 
 
